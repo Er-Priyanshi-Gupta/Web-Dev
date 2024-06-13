@@ -27,9 +27,6 @@ Welcome to the Web Development Insights repository! This comprehensive resource 
 - **Optimization Techniques**: Asset optimization, caching strategies.
 - **Monitoring & Debugging**: Performance tools, debugging methods.
 
-### 6. DevOps & Deployment
-- **CI/CD**: Setting up automated pipelines for development and deployment.
-
 Dive in to enhance your web development skills and stay ahead in the ever-evolving tech landscape!
 
 ## Getting Started
