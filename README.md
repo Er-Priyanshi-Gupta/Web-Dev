@@ -28,9 +28,3 @@ Welcome to the Web Development Insights repository! This comprehensive resource 
 - **Monitoring & Debugging**: Performance tools, debugging methods.
 
 Dive in to enhance your web development skills and stay ahead in the ever-evolving tech landscape!
-
-## Getting Started
-
-Clone the repository to your local machine:
-```bash
-git clone https://github.com/yourusername/web-development-insights.git
